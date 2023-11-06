@@ -5,6 +5,6 @@ int main() {
 	int b = 2;
 	std::cout << "" << a + b << std::endl;
 	std::cout << "Ispis" << std::endl;
-
+	std::cout << "Ispis2" << std::endl;
 	return 0;
 }
